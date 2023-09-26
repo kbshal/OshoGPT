@@ -20,6 +20,8 @@ Make some changes
 ```bash
 git commit -m "Add feature/my-contribution"
 git push origin feature/my-contribution
-
-
 ```
+
+## Code of Conduct
+
+Please review and adhere to our Code of Conduct to maintain a respectful and inclusive environment for all contributors.
